@@ -1,3 +1,3 @@
 # Covid-19
 
-![](vis.png)
+![](vis2.png)
