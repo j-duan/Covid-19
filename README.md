@@ -7,7 +7,7 @@ We aim to leverage the power of machine learning methods, especially deep learni
 
 
 ![](vis2.png)
-*Dyanmically visualise the changes of covid-19 infection. (a): segmentation on 25/02/2020  (b): 29/02/2020 (c): 04/03/2020 (d): 09/03/2020 (e): 13/03/2020*
+*Dyanmically visualise the changes of covid-19 infection. (a): segmentation on 25/02/2020  (b): 29/02/2020 (c): 04/03/2020 (d): 09/03/2020 (e): 13/03/2020. This example shows the patient gradually recovers from the virus.*
 
 # Background 
 Chest CT examination has also shown its effectiveness in follow-up assessment of hospitalized COVID-19 patients. Due to fast progression of the disease, subsequent CT scans every 3-5 days are recommended to evaluate the therapeutic responses. Although CT provides rich pathological information, only qualitative evaluation has been provided in the radiological reports owing to the lack of computerized tools to accurately quantify the infection regions and their longitudinal changes. Thus, subtle changes across follow-up CT scans are often ignored. Besides, contouring infection regions in the Chest CT is necessary for quantitative assessment; however, manual contouring of lung lesions is a tedious and time-consuming work, and inconsistent delineation could also lead to subsequent assessment discrepancies. Thus, a fast auto-contouring tool for COVID-19 infection is urgently needed in the onsite applications for quantitative disease assessment.
